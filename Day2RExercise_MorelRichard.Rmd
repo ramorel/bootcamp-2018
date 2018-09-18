@@ -1,0 +1,31 @@
+---
+title: "R Day 2"
+author: "Richard Paquin Morel"
+date: "9/18/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+here::here("data", "gapminder5.csv")
+
+gapminder <- read.csv(here::here("data", "gapminder5.csv"))
+```
+
+
+## Converting factors to characters
+
+```{r}
+
+```
+
+
+## Creating logged variables with a for loop
+
+```{r}
+
+```
+
