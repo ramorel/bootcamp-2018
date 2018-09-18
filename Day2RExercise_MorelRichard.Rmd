@@ -29,3 +29,9 @@ gapminder <- read.csv(here::here("data", "gapminder5.csv"))
 
 ```
 
+## I've completed the exercises
+
+```{r}
+
+```
+
